@@ -121,7 +121,7 @@
 		</plugins>
 	</build>
 
-	<repositories>
+	<!--<repositories>
 		<repository>
 			<id>central</id>
 			<url>https://maven.aliyun.com/repository/central</url>
@@ -158,10 +158,10 @@
 		</repository>
 
 
-	</repositories>
+	</repositories>-->
 
 	<!-- 添加下载插件仓库全部使用aliyun配置 -->
-	<pluginRepositories>
+	<!--<pluginRepositories>
 		<pluginRepository>
 			<id>aliyun</id>
 			<url>https://maven.aliyun.com/repository/public</url>
@@ -182,7 +182,7 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</pluginRepository>
-	</pluginRepositories>
+	</pluginRepositories>-->
 
 
 
